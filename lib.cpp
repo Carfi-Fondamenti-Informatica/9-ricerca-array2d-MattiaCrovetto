@@ -11,5 +11,3 @@ bool res (char list[10][20],char name[20],int &i){
     return false;
 
 }
-© 2021 GitHub, Inc.
-Term
